@@ -28,6 +28,7 @@ Skills
 ======
 * R studio
 * Excel
+* English
   
 Teaching
 ======
