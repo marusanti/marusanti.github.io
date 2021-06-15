@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. Economics. Universidad de San Andrés, 2022 (expected)
-* Degree Economics. Universidad de Buenos Aires, 2020
+* Degree course in Economics. Universidad de Buenos Aires, 2020
 
 Work experience
 ======
